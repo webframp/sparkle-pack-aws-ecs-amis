@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'sparkle-pack-aws-ecs-amis'
-  s.version = '0.1.0'
+  s.version = '0.1.1'
   s.license = 'Apache-2.0'
   s.summary = 'AWS ECS optimized AMIs'
   s.description = 'SparklePack to dynamically detect AWS ECS optimized AMIs and provide them as a template mapping'
